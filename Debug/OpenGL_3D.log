@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vitaliy\source\repos\opengl_3d\opengl_3d\source.cpp(89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\vitaliy\source\repos\opengl_3d\opengl_3d\source.cpp(90): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  OpenGL_3D.vcxproj -> C:\Users\Vitaliy\source\repos\OpenGL_3D\Debug\OpenGL_3D.exe
